@@ -1,0 +1,9 @@
+header{
+margin-top: -40px;
+    background: transparent;
+    height: 80px;
+    padding: 0px 50px 30px 30px;
+}
+header svg{
+    font-size: 40px;
+}
