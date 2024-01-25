@@ -18,7 +18,7 @@
 .homehead{
   font-family: 'Grape Nuts', cursive;
 }
-.container{
+.wrapper{
   height: 100vh;
   overflow-y: scroll;
   scroll-snap-type: y mandatory; 
@@ -39,8 +39,8 @@ scroll-snap-align: start;
 }
 
 .three{
-  background-color: antiquewhite;
-}
+
+background-color: #00264d;}
 .skillgroup{
   display: flex-row;
   flex-wrap: wrap;

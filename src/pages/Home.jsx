@@ -1,14 +1,15 @@
 import React from 'react'
-import Header from '../component/Header'
 import portpic from '../images/WhatsApp_Image_2023-05-24_at_9.24.47_AM-removebg-preview(1).png'
 import Slide2 from '../component/Slide2'
 import Slide3 from '../component/Slide3'
+import Header from '../component/Header';
 function Home() {
   return (
    <>
-   <div className='container ' style={{height:"100vh"}}>
-    <section className='one'>
-       <div className='headover '><Header/></div>
+   <div className='wrapper ' style={{height:"100vh"}}>
+
+    <section className='one' id='homesection'>
+  <div className="headover"><Header/></div>
             <div className='main'  style={{display:"flex"}}>
                 <div className='first' style={{height:'100vh',width:'70%',backgroundColor:'#00264d'}}>
                     <div className='homecontent' style={{display:'flex',justifyContent:'space-around',alignItems:'center',height:'100vh', color:'#ffd11a'}}>
@@ -25,6 +26,7 @@ function Home() {
             </div>
     </section>
     <section className='two'>
+      
       <Slide2/>
     </section>
     <section className='three'>
