@@ -39,12 +39,12 @@ export default function ProModal({title,description,imgUrl,techs,link}) {
       >
         <Box sx={style} className='mostyle'>
 
-              <div class='modmain' style={{display:'flex'}}>
+              <div class='modmain' >
 <div className='imgproject' >
                     <img  style={{width:'100%',height:'300px',marginTop:'-1px'}}  src={imgUrl}></img>
   
 </div>    
-              <div style={{width:'50%',padding:"2%",backgroundColor:"#00264d", color:'white'}}>
+              <div className='modaldescr' style={{padding:"2%",backgroundColor:"#00264d", color:'white'}}>
                   <Typography id="modal-modal-title" variant="h6" component="h3" style={{textAlign:'center'}}>
                     {title}
                     </Typography>
