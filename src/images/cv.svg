@@ -1,0 +1,628 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="595.5pt" height="842.25pt" viewBox="0 0 595.5 842.25">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M60.790624 0H807.6657V469.4167H60.790624Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M17.045805 778.1802H863.91976V3092.3858H17.045805Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M101.337368 953.5133H757.87826V962.63827H101.337368Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M899.628 957.55496H2346.376V967.67996H899.628Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M899.628 1361.4295H2346.376V1371.5545H899.628Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M897.4197 2893.344H2344.1678V2903.4693H897.4197Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M101.337368 2278.0115H757.87826V2287.1365H101.337368Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M129.32109 2321.3729H212.51396V2408.7254H129.32109Z"/>
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M148.21228 2337.6365C152.00395 2337.6365 155.04563 2340.6783 155.04563 2344.4698 155.04563 2348.2615 152.00395 2351.303 148.21228 2351.303 144.42064 2351.303 141.37897 2348.2615 141.37897 2344.4698 141.37897 2340.6783 144.42064 2337.6365 148.21228 2337.6365ZM154.2123 2355.6365V2391.6365H142.2123V2355.6783L154.2123 2355.6365ZM185.29558 2354.8033C185.46225 2354.8033 185.58725 2354.8033 185.71225 2354.8033 187.6289 2354.8865 190.21224 2354.553 194.58722 2357.553 199.25389 2360.7615 199.3789 2369.178 199.3789 2369.178L199.33724 2391.5948H187.29557L187.0039 2370.2198C187.0039 2370.2198 187.29557 2364.553 181.12892 2364.553 181.08725 2364.553 181.08725 2364.553 181.04558 2364.553 174.83727 2364.5948 173.96225 2370.2198 173.96225 2370.2198V2391.5948H161.87894V2355.6783H173.50392V2360.6365L174.00392 2359.0115C179.00392 2355.4698 183.17058 2354.8448 185.29558 2354.8448V2354.8033ZM136.96231 2324.5948C133.21231 2324.5948 130.21233 2327.6365 130.21233 2331.3448V2399.0948C130.21233 2402.803 133.25399 2405.803 136.92066 2405.8448H204.58722C208.29555 2405.803 211.29555 2402.803 211.29555 2399.0948V2331.3865C211.3372 2327.678 208.33722 2324.6365 204.58722 2324.6365L136.96231 2324.5948Z"/>
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M132.04376 2476.5H216.41876V2554.625H132.04376Z" fill-rule="evenodd"/>
+</clipPath>
+<mask id="mask_15">
+<g transform="matrix(.1265625,0,0,.12417219,31.690503,594.36)">
+<image id="image_16" width="160" height="151" xlink:href="data:image/png;base64,
+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
+gALx/gt9BVtKuhiXegAAAABJRU5ErkJggg=="/>
+</g>
+</mask>
+<clipPath id="clip_18">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M17.04375 3062.0968H863.2501V3509.375H17.04375Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_20">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M233.5 2366.5218H702.0425V2369.6468H233.5Z"/>
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M233.5 2366.5218V2369.6468H295.91667V2366.5218H233.5ZM308.33335 2366.5218V2369.6468H702.0416V2366.5218H308.33335Z"/>
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M248.70624 2540.028H720.6681V2542.528H248.70624Z"/>
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M248.70624 2540.028V2542.528H298.66447V2540.028H248.70624ZM308.58113 2540.028V2542.528H375.20597V2540.028H308.58113ZM402.03926 2540.028V2542.528H720.6636V2540.028H402.03926Z"/>
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_30">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_31">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_32">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M262.99064 2435.2718H672.5853V2438.3968H262.99064Z"/>
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M262.99064 2435.2718V2438.3968H582.949V2435.2718H262.99064ZM595.3656 2435.2718V2438.3968H625.4906V2435.2718H595.3656ZM658.9906 2435.2718V2438.3968H672.574V2435.2718H658.9906Z"/>
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_35">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_36">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M910.68759 3035.5406H925.9438V3050.7374H910.68759Z"/>
+</clipPath>
+<clipPath id="clip_38">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M925.89279 3043.1224 925.68447 3045.1219 924.35147 3047.788 922.10189 3049.7459 919.2691 3050.704 916.2698 3050.4959 913.60366 3049.1629 911.6457 3046.913 910.68759 3044.1639 910.8959 3041.1644 912.18728 3038.4984 914.43679 3036.4989 917.26956 3035.5406 920.2689 3035.7489 922.93508 3037.0819 924.89297 3039.3314 925.85116 3042.164 925.89279 3043.1224Z"/>
+</clipPath>
+<clipPath id="clip_39">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_40">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_42">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M910.68759 3108.494H925.9438V3123.6907H910.68759Z"/>
+</clipPath>
+<clipPath id="clip_43">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M925.89279 3116.0758 925.68447 3118.0753 924.35147 3120.7415 922.10189 3122.6993 919.2691 3123.6575 916.2698 3123.4493 913.60366 3122.1163 911.6457 3119.8665 910.68759 3117.1173 910.8959 3114.1177 912.18728 3111.4517 914.43679 3109.4522 917.26956 3108.494 920.2689 3108.7022 922.93508 3110.0352 924.89297 3112.2847 925.85116 3115.1175 925.89279 3116.0758Z"/>
+</clipPath>
+<clipPath id="clip_44">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_47">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M910.68759 3181.4439H925.9438V3196.6407H910.68759Z"/>
+</clipPath>
+<clipPath id="clip_48">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M925.89279 3189.0257 925.68447 3191.0252 924.35147 3193.6915 922.10189 3195.6492 919.2691 3196.6075 916.2698 3196.3992 913.60366 3195.0662 911.6457 3192.8165 910.68759 3190.0672 910.8959 3187.0677 912.18728 3184.4017 914.43679 3182.402 917.26956 3181.4439 920.2689 3181.652 922.93508 3182.985 924.89297 3185.2347 925.85116 3188.0675 925.89279 3189.0257Z"/>
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M910.68759 3254.3939H925.9438V3269.5906H910.68759Z"/>
+</clipPath>
+<clipPath id="clip_53">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M925.89279 3261.9757 925.68447 3263.975 924.35147 3266.6414 922.10189 3268.599 919.2691 3269.5574 916.2698 3269.349 913.60366 3268.016 911.6457 3265.7664 910.68759 3263.017 910.8959 3260.0177 912.18728 3257.3516 914.43679 3255.352 917.26956 3254.3939 920.2689 3254.602 922.93508 3255.935 924.89297 3258.1846 925.85116 3261.0174 925.89279 3261.9757Z"/>
+</clipPath>
+<clipPath id="clip_54">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_55">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_56">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_57">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M910.68759 3327.3438H925.9438V3342.5406H910.68759Z"/>
+</clipPath>
+<clipPath id="clip_58">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M925.89279 3334.9256 925.68447 3336.925 924.35147 3339.5914 922.10189 3341.549 919.2691 3342.5074 916.2698 3342.299 913.60366 3340.966 911.6457 3338.7164 910.68759 3335.967 910.8959 3332.9676 912.18728 3330.3016 914.43679 3328.302 917.26956 3327.3438 920.2689 3327.552 922.93508 3328.885 924.89297 3331.1346 925.85116 3333.9674 925.89279 3334.9256Z"/>
+</clipPath>
+<clipPath id="clip_59">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_60">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_61">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_62">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M910.68759 3400.2938H925.9438V3415.4906H910.68759Z"/>
+</clipPath>
+<clipPath id="clip_63">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M925.89279 3407.8756 925.68447 3409.875 924.35147 3412.5413 922.10189 3414.499 919.2691 3415.4573 916.2698 3415.249 913.60366 3413.916 911.6457 3411.6663 910.68759 3408.917 910.8959 3405.9176 912.18728 3403.2515 914.43679 3401.252 917.26956 3400.2938 920.2689 3400.502 922.93508 3401.835 924.89297 3404.0845 925.85116 3406.9173 925.89279 3407.8756Z"/>
+</clipPath>
+<clipPath id="clip_64">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1464.6719 3035.9503H1479.9281V3051.147H1464.6719Z"/>
+</clipPath>
+<clipPath id="clip_68">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1479.8771 3043.532 1479.6688 3045.5316 1478.3357 3048.1978 1476.0862 3050.1556 1473.2534 3051.1138 1470.254 3050.9056 1467.5879 3049.5726 1465.63 3047.3228 1464.6719 3044.5736 1464.8801 3041.574 1466.1715 3038.908 1468.4212 3036.9085 1471.2539 3035.9503 1474.2533 3036.1585 1476.9193 3037.4915 1478.8773 3039.741 1479.8355 3042.5738 1479.8771 3043.532Z"/>
+</clipPath>
+<clipPath id="clip_69">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_70">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_71">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_72">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1464.6719 3108.9002H1479.9281V3124.097H1464.6719Z"/>
+</clipPath>
+<clipPath id="clip_73">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1479.8771 3116.482 1479.6688 3118.4815 1478.3357 3121.1478 1476.0862 3123.1055 1473.2534 3124.0638 1470.254 3123.8555 1467.5879 3122.5225 1465.63 3120.2728 1464.6719 3117.5235 1464.8801 3114.524 1466.1715 3111.858 1468.4212 3109.8585 1471.2539 3108.9002 1474.2533 3109.1085 1476.9193 3110.4415 1478.8773 3112.691 1479.8355 3115.5238 1479.8771 3116.482Z"/>
+</clipPath>
+<clipPath id="clip_74">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_75">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_76">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_77">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1464.6719 3181.85H1479.9281V3197.0469H1464.6719Z"/>
+</clipPath>
+<clipPath id="clip_78">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1479.8771 3189.432 1479.6688 3191.4315 1478.3357 3194.0977 1476.0862 3196.0555 1473.2534 3197.0137 1470.254 3196.8055 1467.5879 3195.4725 1465.63 3193.2227 1464.6719 3190.4735 1464.8801 3187.4739 1466.1715 3184.8079 1468.4212 3182.8084 1471.2539 3181.85 1474.2533 3182.0584 1476.9193 3183.3914 1478.8773 3185.6409 1479.8355 3188.4737 1479.8771 3189.432Z"/>
+</clipPath>
+<clipPath id="clip_79">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2484.375V3543.75H0Z"/>
+</clipPath>
+<clipPath id="clip_80">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_81">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z"/>
+</clipPath>
+<clipPath id="clip_82">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1464.6719 3254.8H1479.9281V3269.9969H1464.6719Z"/>
+</clipPath>
+<clipPath id="clip_83">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1479.8771 3262.3819 1479.6688 3264.3814 1478.3357 3267.0477 1476.0862 3269.0054 1473.2534 3269.9637 1470.254 3269.7554 1467.5879 3268.4224 1465.63 3266.1727 1464.6719 3263.4234 1464.8801 3260.4239 1466.1715 3257.7579 1468.4212 3255.7584 1471.2539 3254.8 1474.2533 3255.0084 1476.9193 3256.3414 1478.8773 3258.5909 1479.8355 3261.4237 1479.8771 3262.3819Z"/>
+</clipPath>
+<clipPath id="clip_84">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2481.25V3509.375H0Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H794V1123H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H794V1123H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_2)">
+<path transform="matrix(.44009377,0,0,.44009377,14.589749,0)" d="M0 0H407V256H0Z" fill="#179498"/>
+</g>
+<g clip-path="url(#clip_3)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#179498"/>
+</g>
+<g clip-path="url(#clip_4)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_5)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#179498"/>
+</g>
+<g clip-path="url(#clip_6)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#179498"/>
+</g>
+<g clip-path="url(#clip_7)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#179498"/>
+</g>
+<g clip-path="url(#clip_8)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_9)">
+<g clip-path="url(#clip_10)">
+<g clip-path="url(#clip_11)">
+<g clip-path="url(#clip_12)">
+<g clip-path="url(#clip_13)">
+<path transform="matrix(.99831447,0,0,.99831447,-.90900006,181.76325)" d="M0 0H570V566H0Z" fill="#0277b5"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_14)">
+<g mask="url(#mask_15)">
+<g transform="matrix(.1265625,0,0,.12417219,31.690503,594.36)">
+<image id="image_17" width="160" height="151" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAKAAAACXCAIAAAAd0sdvAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAXUlEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAA4MBvGAAHehYtnAAAAAElFTkSuQmCC"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_18)">
+<path transform="matrix(.4193232,0,0,.4193232,4.0905,734.9032)" d="M0 0H484V256H0Z" fill="#179498"/>
+</g>
+<g clip-path="url(#clip_19)">
+<g clip-path="url(#clip_20)">
+<g clip-path="url(#clip_21)">
+<g clip-path="url(#clip_22)">
+<g clip-path="url(#clip_23)">
+<path transform="matrix(.0029296876,0,0,.0029296876,56.039999,567.9652)" d="M0 0H38384V256H0Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_24)">
+<g clip-path="url(#clip_25)">
+<g clip-path="url(#clip_26)">
+<g clip-path="url(#clip_27)">
+<g clip-path="url(#clip_28)">
+<path transform="matrix(.0023437448,0,0,.0023437448,59.689496,609.60678)" d="M0 0H48326V256H0Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_29)">
+<g clip-path="url(#clip_30)">
+<g clip-path="url(#clip_31)">
+<g clip-path="url(#clip_32)">
+<g clip-path="url(#clip_33)">
+<path transform="matrix(.0029296876,0,0,.0029296876,63.11775,584.4652)" d="M0 0H33552V256H0Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_34)">
+<g clip-path="url(#clip_35)">
+<g clip-path="url(#clip_36)">
+<g clip-path="url(#clip_37)">
+<g clip-path="url(#clip_38)">
+<path transform="matrix(.01424707,0,0,.01424707,218.565,728.5297)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_39)">
+<g clip-path="url(#clip_40)">
+<g clip-path="url(#clip_41)">
+<g clip-path="url(#clip_42)">
+<g clip-path="url(#clip_43)">
+<path transform="matrix(.01424707,0,0,.01424707,218.565,746.0385)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_44)">
+<g clip-path="url(#clip_45)">
+<g clip-path="url(#clip_46)">
+<g clip-path="url(#clip_47)">
+<g clip-path="url(#clip_48)">
+<path transform="matrix(.01424707,0,0,.01424707,218.565,763.5465)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_49)">
+<g clip-path="url(#clip_50)">
+<g clip-path="url(#clip_51)">
+<g clip-path="url(#clip_52)">
+<g clip-path="url(#clip_53)">
+<path transform="matrix(.01424707,0,0,.01424707,218.565,781.0545)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_54)">
+<g clip-path="url(#clip_55)">
+<g clip-path="url(#clip_56)">
+<g clip-path="url(#clip_57)">
+<g clip-path="url(#clip_58)">
+<path transform="matrix(.01424707,0,0,.01424707,218.565,798.5625)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_59)">
+<g clip-path="url(#clip_60)">
+<g clip-path="url(#clip_61)">
+<g clip-path="url(#clip_62)">
+<g clip-path="url(#clip_63)">
+<path transform="matrix(.01424707,0,0,.01424707,218.565,816.0705)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_64)">
+<g clip-path="url(#clip_65)">
+<g clip-path="url(#clip_66)">
+<g clip-path="url(#clip_67)">
+<g clip-path="url(#clip_68)">
+<path transform="matrix(.01424707,0,0,.01424707,351.52125,728.62808)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_69)">
+<g clip-path="url(#clip_70)">
+<g clip-path="url(#clip_71)">
+<g clip-path="url(#clip_72)">
+<g clip-path="url(#clip_73)">
+<path transform="matrix(.01424707,0,0,.01424707,351.52125,746.13607)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_74)">
+<g clip-path="url(#clip_75)">
+<g clip-path="url(#clip_76)">
+<g clip-path="url(#clip_77)">
+<g clip-path="url(#clip_78)">
+<path transform="matrix(.01424707,0,0,.01424707,351.52125,763.644)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_79)">
+<g clip-path="url(#clip_80)">
+<g clip-path="url(#clip_81)">
+<g clip-path="url(#clip_82)">
+<g clip-path="url(#clip_83)">
+<path transform="matrix(.01424707,0,0,.01424707,351.52125,781.152)" d="M0 0H256V256H0Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_84)">
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 24.316502 130.71112)" font-size="40.36" font-family="Montserrat"><tspan y="25" x="0 29.179749 56.1801 88.99217 121.804248 150.74184 161.31597 190.29392 198.85009">REHNA P.G</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 24.316502 130.71112)" font-size="14.34" font-family="OpenSans"><tspan y="46" x="0 12.369202 20.28186 24.178727 32.783998 36.680864 45.19519 55.52852 62.20285 66.995227 74.58606 81.393329 88.32652 92.04848 95.287708 103.74606 108.53844 116.40912 121.98506">ME(A)RNstack intern</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.30875 474.45915)" font-size="17.48" font-family="OpenSans" font-weight="bold"><tspan y="18" x="0 9.783524 26.936676 37.48787 42.81891">Email</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.36875 245.40235)" font-size="17.48" font-family="OpenSans" font-weight="bold"><tspan y="18" x="0 14.201889 24.753083 41.906236">Name</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.690503 423.39537)" font-size="17.48" font-family="OpenSans" font-weight="bold"><tspan y="18" x="0 10.969147 22.450074 33.265687 44.746614">Phone</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.29825 354.82734)" font-size="17.48" font-family="OpenSans" font-weight="bold"><tspan y="18" x="0 12.052414 23.106858 34.1613 42.093889 52.41478 61.097978">Address</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.333498 303.76283)" font-size="17.48" font-family="OpenSans" font-weight="bold"><tspan y="18" x="0 12.930969 23.482163 31.065033 41.385927 45.923707 56.73932 63.50334 68.04112 79.77794 85.10898 93.041568 100.624439">Date of Birth</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.36875 263.21217)" font-size="14.79" font-family="OpenSans"><tspan y="15" x="0 8.783585 16.903168 25.629014 34.35486 42.185747 46.025407 54.823427 58.34552">Rehna p.g</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.333498 321.5727)" font-size="14.79" font-family="OpenSans"><tspan y="15" x="0 3.6447907 11.4756779 20.201523 28.927369 36.758256 42.51053 49.29489 53.134553 61.5717 70.00885 73.18451 77.02417 85.46132 93.89847 102.33562">January 28, 2003</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.690503 441.20518)" font-size="14.79" font-family="OpenSans"><tspan y="15" x="0 8.437149 16.874299 25.311448 29.151108 37.588258 46.025407 54.462556 62.899705 71.33685 79.774 88.21115 96.6483 105.08545">+91 9074885922</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.30875 492.26963)" font-size="14.79" font-family="OpenSans"><tspan y="15" x="0 8.783585 16.903168 25.629014 34.35486 42.185747 50.983766 58.663087 71.75546 79.434787 92.49107 100.32196 103.66362 107.00528 110.527378 117.54991 126.21802">Rehnapg@gmail.com</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.29825 372.74333)" font-size="14.79" font-family="OpenSans"><tspan y="15" x="0 8.646454 17.3723 22.316224 31.042069 39.767915 46.559495 54.679079 62.79866 67.742588 71.08424 74.4259 78.265567 86.99141 95.659519 104.38536 111.27077">Puthuveetil house</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.29825 372.74333)" font-size="14.79" font-family="OpenSans"><tspan y="35" x="0 8.646454 12.168549 20.836655 24.770066 33.30104 41.420625 50.14647 57.82579 61.16745 69.96547 77.79636 86.5222 94.20152 102.92737 106.10303 114.22261 122.948459 130.77935 143.83563 151.66652 158.81897 165.97142 173.8023">P.o Vengidangu,enamakkal</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 31.29825 372.74333)" font-size="14.79" font-family="OpenSans"><tspan y="55" x="0 7.7514955 16.47734 22.229615 25.571274 32.45668 39.342088 48.067934">Thrissur</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 226.4025 234.09407)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="15" x="0 8.451584 16.903168 25.354752 33.806337 37.645998 51.58281 60.510744 68.91902 72.75868">2023 May -</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 226.4025 234.09407)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="35" x="0 9.35376 18.086823 25.686753 34.419816 48.93402 58.28778 67.02084">december</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 240.09299 464.11619)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="15" x="0 8.451584 16.903168 25.354752">2018</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 240.09299 464.11619)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="15" x="33.8125"> </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 226.4025 405.38218)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="15" x="0 8.451584 16.903168 25.354752 33.806337 37.645998 42.402269 50.85385 59.305437 67.75702">2018 -2020</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 227.205 338.71617)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="15" x="0 8.451584 16.903168 25.354752 33.806337 37.645998 42.402269 46.24193 54.693513 63.145097 71.59668">2020 - 2023</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="0 8.141235 22.655442 31.583374 38.295564 44.711839 48.5515 58.48265 67.41058 74.62077 83.548709">Smart Bazar</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans"><tspan y="39" x="0 11.295242 15.733948 20.172654 23.514313 26.855973 35.581819 43.7014 47.54106 56.33908 62.091356 65.433017 72.45555 80.575138 84.414798 91.43733 100.10544 113.16173 121.95975 129.79064 135.54291 138.88457 145.76998 154.43808">Offline price comparison</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans"><tspan y="59" x="0 10.681763 18.801346 27.599366 34.48477 37.82643 42.770357 50.88994 54.7296 63.455446 70.34085 73.68251 82.408359 90.08768 93.92734 97.94743 106.74545 115.4713 124.26932 127.44498 136.17082 141.11475 154.17104 157.5127 168.05733 177.23065 184.11606 191.00147">website using (php,html&#x0026;Css)</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="85" x="0 13.936813 22.669877 32.023637 36.534517 45.46245 49.30211 58.65587 63.166749 72.09468 80.50296 89.23602">Media player</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans"><tspan y="108" x="0 12.760376 20.87996 29.677979 33.019639 40.850526 44.690187 53.488206 56.829866 64.66075 71.445117 79.5647 85.31697 89.15663 96.98752 105.78554 114.58356 117.92522 121.26688 128.28942 136.1203 141.06423 144.40589 153.07399 161.79984 165.6395 174.36534 181.25075 184.5924 193.31826">Media player application using</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans"><tspan y="108" x="201"> </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 549.8047)" font-size="14.79" font-family="OpenSans"><tspan y="128" x="0 5.7522737 13.871857 21.702744 28.72528 33.669206 37.508867 44.531404 50.283678 59.00952 67.80754 71.6472 80.31531 89.11333 97.23291 102.98518 110.81607 115.759998 119.101657 127.76976">react crud operation</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.79314997 0 0 .79314997 332.6933 232.78055)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="0 8.35054 18.06517 32.579378 37.090257 46.804887 55.73282 62.445009 66.28467 74.84451 83.577579 91.177509 100.892139 110.606769 119.75844 124.26932 133.19725 142.55101">Luminar Technolab </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.79314997 0 0 .79314997 332.6933 232.78055)" font-size="14.79" font-family="OpenSans"><tspan y="16" x="146.40625 159.16663 167.32952 171.34961 180.22702 184.24712 193.0307 203.69081 207.53047 214.41588 219.3598 227.19069 234.21323">ME(A)RN stack</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.79314997 0 0 .79314997 332.6933 232.78055)" font-size="14.79" font-family="OpenSans"><tspan y="39" x="0 3.3416596 12.067505 17.011429 25.131012 30.883286">intern</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="0 8.141235 14.55751 18.772477 32.70929 42.907487 52.66542 61.889268 65.822757 73.96399 77.80365 87.22237 98.98674 107.33728 115.68782 123.96619 134.6696 142.94797 146.78763 151.0026 159.56244 169.32038 174.21378 182.35501 190.49625 201.6688">St.MARY'S COLLEGE ,TRISSUR</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans"><tspan y="39" x="0 9.267151 17.098038 24.120575 32.84642 40.966005 44.307664 52.97577 58.728044 62.567705 71.23581 75.674518 79.514179 88.6875 97.355609 110.411899 119.209918 127.93576 132.87969 140.99927">Bachelor of Computer</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans"><tspan y="59" x="0 7.830887 16.628907 25.426926 28.768586 32.110246 39.132783 46.96367 51.907594 55.249254 63.91736">application</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="11.92" font-family="OpenSans"><tspan y="80" x="0 7.389084 15.999023 22.963715 30.11444 33.207277 40.003374 46.79947 49.636507 56.432603 63.2287">CGPA 61.33%</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="102" x="0 9.281586 14.174988 28.111802 36.253038 46.95645 58.26613 66.407367 74.5486 78.763568 82.603229 92.4189 102.617099 114.63408 125.57567 135.77387 143.9151 152.05634 162.25453 174.27152 184.08719 194.28539 205.22698 215.42517 225.03154">PJMSGHSS, KANDASSANKADAVU</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans"><tspan y="124" x="0 8.437149 16.874299 20.713959 29.887284 38.55539 51.61168 64.66797 72.78755 78.539829 85.56236">+2 Commerce</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans"><tspan y="144" x="0 9.173325 19.862305 28.508759 37.38617 41.22583 49.66298 58.10013">CGPA 74%</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="166" x="0 8.141235 16.70108 20.540741 24.755707 29.649109 41.413484 49.554719 57.833086 67.11467 78.42435 82.26401 93.573688 98.46709 109.1705 120.48018 128.62142 138.04013 149.34981 161.11418 172.87856 181.2291 185.44406 193.72243 205.73941 215.9376 229.87442 240.07262 249.88829 259.70399 269.90217">ST .JOSEPH HIGHSCHOOL,ENAMAKKAL</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans"><tspan y="188" x="0 8.061844 16.123688 23.701966">SSLC</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 326.41725 337.5345)" font-size="14.79" font-family="OpenSans"><tspan y="208" x="0 9.173325 19.862305 28.508759 37.38617 41.22583 49.66298 58.10013">CGPA 85%</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="0 8.559845 17.292908 24.892838 34.607469 44.322099 48.832979 56.432909 65.36084 69.87172 73.71138 81.0587 90.22481 94.73569 99.24657">Technical skill</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="103.765628 107.605289 111.44495 115.28461 119.12427 122.96393 126.80359 130.64325 134.48291 138.32257 142.16223 146.00189 149.84156 153.68122 157.52088 161.36054 165.2002 169.03986 172.87952 176.71918">                    </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="180.5625 189.84409 198.57715 205.28934 212.63666 221.78833 231.50296 240.4309 244.94178 248.78144 256.12876 265.29487 269.80574 274.3166">Personal skill</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="39" x="0 3.8396607 7.6793215">   </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="39" x="11.53125 20.314835 28.434418 36.265306 43.28784">React</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="39" x="48.234376 52.074037 55.913698 59.753358 63.593019 67.43268 71.27234 75.112 78.95166 82.79132 86.63098 90.47064 94.3103 98.14996 101.989627 105.829288 109.668949 113.508609 117.34827 121.18793 125.02759 128.86725 132.70691 136.54657 140.38623 144.22589 148.06555 151.90522 155.74488 159.58454 163.4242 167.26386 171.10352 174.94318 178.78284 182.6225 186.46216">                                     </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="39" x="190.3125 198.95896 204.71123 213.37934 222.17736 225.51902 233.6386 246.69489 250.53455 257.41996 266.08808 269.42976 276.2213 279.563 288.28883 295.96815 299.8078 307.63868 316.4367 319.77839 323.12007 326.46174 331.40565">Problem solving ability</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="62" x="0 3.8396607 7.6793215">   </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="62" x="11.53125 20.40866 29.134507 36.813829 45.539674 48.881334 56.71222">Angular</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="62" x="62.46875 66.30841 70.14807 73.98773 77.82739 81.66705 85.506717 89.346378 93.186038 97.025699 100.86536 104.70502 108.54468 112.38434 116.224 120.06366 123.90332 127.74298 131.58264 135.4223 139.26197 143.10163 146.94129 150.78095 154.6206 158.46027 162.29993 166.13959 169.97925 173.81891 177.65857 181.49823 185.33789">                                 </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="62" x="189.1875 196.61421 204.4451 211.3305 216.27443 220.11409 223.45575 231.57534 239.40622 248.13207 256.25166">Fast leaner</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="0 3.8396607 7.6793215">   </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="11.53125 22.16249 29.913987 42.674364 50.25264 55.29039 64.463718 72.52556">HTML/CSS</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="85" x="80.59375">:</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="84.8125 93.24965 101.6868 110.12395 114.88022 123.31737 131.75452 136.51079">809-67-6</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="144.95313 148.79279 152.63245 156.4721 160.31177 164.15143 167.99109 171.83075 175.67041">         </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="179.51563">5</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="187.95313 196.83054 201.77446 209.89405 218.61989 223.56381 226.90547 235.57358 244.29943 248.13909 253.08301 261.7511 265.59077 274.3888 282.50837 287.45228 295.28315 298.62483">Atention to detail</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="85" x="301.96876 307.721 316.3891 325.11494 338.1712 346.00209 354.7279 363.396 369.14826 382.24064 390.36024 403.4165 411.24739 414.58906 417.93074 421.45283 428.47535 437.14344">ronmanor@email.com</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="108" x="0 3.8396607 7.6793215">   </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="108" x="11.53125 15.176041 23.006928 29.798508 37.629396 44.5148 51.53734 57.28961 60.63127 69.42929">Javascript</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="108" x="74.375 78.21466 82.05432 85.89398 89.73364 93.5733 97.412967 101.252628 105.092288 108.931949 112.77161 116.61127 120.45093 124.29059 128.13025 131.96991 135.80957 139.64923 143.48889 147.32855 151.16822 155.00788 158.84754 162.6872 166.52686 170.36652 174.20618 178.04584 181.8855">                             </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="108" x="185.73438 193.48587 201.60546 209.43634 222.49263 226.33229 235.13031 238.47197 246.30286 253.08722 261.2068">Team player</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="131" x="0 3.8396607 7.6793215">   </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="131" x="11.53125 24.291626 31.075989 37.961397 46.759416">Mysql</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="154" x="0 3.8396607 7.6793215">   </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 216.37651 703.2839)" font-size="14.79" font-family="OpenSans"><tspan y="154" x="11.53125 20.7984 29.466507 38.134614 43.078538 49.963945 54.907869 60.66014 68.49103">Bootstrap</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 23.8305 201.09496)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 19.318696 38.77191 61.346254 78.377918 86.5036 102.35138">PROFILE</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 24.316502 76.59122)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 19.453217 37.453508 54.000856 75.31061 101.00607">RESUME</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 23.589749 624.7317)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 15.847778 35.139558 57.014345 77.81288 99.122638 118.41441 139.21295 157.21324">LANGUAGES</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 23.589749 515.41397)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 16.547348 39.12169 58.467287 66.59297 85.88475 101.73253 108.78197 134.47743 152.47772 174.70229 182.82798">SOCIAL MEDIA</tspan></text>
+<text fill="#179498" xml:space="preserve" transform="matrix(.75 0 0 .75 215.38423 664.46597)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 16.547348 35.67769 43.803377 59.651155 75.49893">SKILLS</tspan></text>
+<text fill="#179498" xml:space="preserve" transform="matrix(.75 0 0 .75 215.38423 520.7569)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 19.318696 38.77191 61.346254 74.82628 92.82657 112.172168 127.61635">PROJECTS</tspan></text>
+<text fill="#179498" xml:space="preserve" transform="matrix(.75 0 0 .75 215.38423 298.58073)" font-size="26.91" font-family="Montserrat"><tspan y="28" x="0 18.00029 40.224855 61.534608 80.8802 100.17198 115.616168 123.74185 146.3162">EDUCATION</tspan></text>
+<text fill="#179498" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 174.37647)" font-size="26.91" font-family="Montserrat"><tspan y="27" x="0 29.892853 52.467195 71.92041">WORK</tspan></text>
+<text fill="#179498" xml:space="preserve" transform="matrix(.75 0 0 .75 218.93399 174.37647)" font-size="26.91" font-family="Montserrat"><tspan y="63" x="0 18.00029 35.650789 54.969484 72.96977 92.42299 100.548679 118.548969 140.42375 159.76935 177.76964">EXPERIENCES</tspan></text>
+<text fill="#494646" xml:space="preserve" transform="matrix(.75 0 0 .75 273.738 19.414502)" font-size="42.66" font-family="Montserrat"><tspan y="44" x="0 30.627137 47.73227 74.47769 88.93814 100.41266 111.88718 137.6515 148.82743 169.6863 198.3939 243.65212 288.91035 314.07749 331.18263">Profile summary</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 63.11775 655.3905)" font-size="16" font-family="OpenSans"><tspan y="19" x="13.21875 22.05075 33.58675 45.15475 53.36275 57.394754 66.11475">ENGLISH</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 63.11775 655.3905)" font-size="16" font-family="OpenSans"><tspan y="46" x="0 13.808001 23.424 31.632 41.248 49.696 59.312 67.520008 77.136">MALAYALAM</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 56.039999 553.7797)" font-size="16" font-family="OpenSans"><tspan y="17" x="0 9.440001 14.784 20.128 29.648 37.104 40.912 46.368 51.824 63.392004 74.96001 86.52801 90.336009 93.952 97.568 107.008 114.75201 123.53601 133.05602 136.67201 146.11202">https://www.linkedin.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 56.039999 553.7797)" font-size="16" font-family="OpenSans"><tspan y="39" x="9.4375 17.0375 26.413502 40.541505 45.997507 49.613508 59.053506 64.50951 70.733509 79.5175 88.957508 98.39751 106.87751 112.02951 121.549518 126.701519 135.02152">com/in/rehna-p-g/</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 59.689496 598.13687)" font-size="12.8" font-family="OpenSans"><tspan y="13" x="0 7.554413 11.834625 16.114838 23.731736 29.69278 32.742036 37.10347 41.464906 48.11328 51.006334 55.286546 62.840959 70.39537 78.01227 81.06152 87.1413 94.64572 105.94922 110.31065 117.915058 124.944599 132.49901 136.61676 144.17118">https://github.com/Reh-na</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="13" x=".21875 9.573303 12.776154 19.66507 27.446076 30.648926 37.005067 40.300844 52.04669 59.679018 64.201419 67.40427 73.74182 80.79181 85.31421 92.43854 100.20096 103.496738 106.699588 114.48059 122.24301 125.44586 131.78342 134.98627 142.74869 150.5297 157.57968 160.78253 164.07831 170.1247 177.24903 184.37335 191.03925 194.2421 202.0231 208.91202 212.2078 219.25778 222.55356 230.31598 237.9483 243.99469 247.19754 251.71994 254.92279 262.5551 270.33613 273.6319 280.6819 286.72828 290.02406 297.07405 300.3698 311.78114 318.83113 326.85374 334.6843">Highly motivated individual seeking a position as a MEARN</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="30" x="17.75 23.796387 28.318787 35.368776 41.446138 48.11203 51.407808 59.170228 66.294559 72.63211 79.75644 82.95929 90.59161 98.354038 105.47836 110.663639 113.99658 117.29236 120.83594 128.61695 133.13935 140.26367 145.44895 153.22995 159.27634 167.05735 170.2602 178.02262 181.31839 188.44272 195.08383 202.84626 209.97058 215.15586 218.3587 225.48303 233.26404 239.3414 246.46573 249.7615 257.5425 264.5925 270.6389 273.93467 281.69709 286.88236 294.51469 300.85224 304.05509 311.8175 318.94184">stack developer. Internship experience has provided</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="47" x="14.375 21.499329 28.140442 35.902864 43.535188 49.581575 57.36258 62.54785 69.67218 72.96796 77.49036 85.12268 88.41846 94.75601 101.806 106.99127 110.19412 117.82645 125.60745 131.65384 134.94962 141.9996 148.04599 155.80841 162.93274 169.0101 173.5325 179.57889 182.87467 190.50699 194.77539 198.07117 207.90274 215.02707 222.78949 226.08527 233.84769 240.97202 247.30957 254.4339 257.63676 265.26908 273.0315 284.77735 291.90168 299.68269 304.20509 307.50086 314.55085 322.33186">exposure to various aspects of web development and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="64" x="9.90625 17.030579 24.811585 32.59259 39.64258 47.423585 53.500947 60.625276 68.387699 71.68347 76.20587 83.3302 89.40756 97.18857 104.969577 108.172428 114.24979 121.299777 124.502628 127.7984 133.84479 140.51068 143.71353 146.91638 150.11923 156.16562 159.49857 162.79434 170.78598 178.4183 190.16416 201.91 205.11286 209.63526 214.15766 221.28199 229.0444 232.34018 236.86258 244.4949 247.79068 255.5531 262.67744 265.88029 269.08314 275.4207 282.545 287.7303 290.93315 298.71415 305.60307 308.89884 316.67985 319.8827 326.7716">enhanced technical skills. Committed to delivering high</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="81" x="35.765626 43.528047 51.30905 58.35904 61.56189 64.76474 69.28714 75.64328 78.93906 84.98544 92.61777 95.82062 103.60162 108.12402 111.32687 118.9592 126.740207 132.78659 136.08237 143.13236 150.91336 158.67578 161.97156 168.04892 175.68125 178.8841 182.08695 189.13694 196.89936 204.53168 209.71695 216.76694 221.28934 224.49219 232.2732 239.16211 242.45789 249.58222 253.85062 258.11903 265.24336 271.3207 275.8431 279.04597 285.3835 292.50785 295.7107 302.06684 305.3626">quality solutions and collaborating effectively .</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="98" x=".203125 7.253113 14.303101 21.192017 28.316346 33.501619 36.797395 41.319795 48.952119 52.247896 58.325258 65.95758 73.73859 78.26099 83.44626 86.64911 94.41153 102.192539 106.714939 113.839267 117.13504 121.65744 128.70743 132.0032 136.5256 144.30661 151.43094 154.72672 160.7731 168.55411 174.63147 180.70883 187.83316 193.87955 199.92594 203.22171 210.2717 214.5401 217.83588 224.88587 232.66687 235.96265 243.59497 248.78025 255.66916 262.71916 270.50016 273.703 279.65028 286.70027 291.22267 294.4255 302.05784 309.83885 313.1346 322.9662 330.7472 333.95005 337.1529">Eager to contribute ta the success af an organization while</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 263.34828 70.16201)" font-size="12.7" font-family="OpenSans"><tspan y="115" x="10.53125 17.655579 24.296692 32.059114 39.1091 46.890108 54.652528 57.855379 65.63638 72.5253 75.821079 82.48697 90.267978 97.9003 107.73187 110.93472 118.05905 125.82147 132.71039 139.83472 143.1305 150.18048 157.96149 165.7239 169.01969 174.20496 181.32929 185.59769 188.80054 196.58155 199.7844 207.5654 214.45432 217.75009 224.87442 231.51554 239.27796 246.40229 251.58756 256.10997 259.3128 265.3592 272.48353 275.7793 278.98216 286.76316 290.05894 301.47026 308.52024 316.54286 324.3734">expanding knowledge and refining expertise in MEARN</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.75 0 0 .75 227.205 281.15135)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="15" x="0 8.451584 16.903168 25.354752 33.806337 37.645998">2024 -</tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.79314997 0 0 .79314997 332.6933 277.07463)" font-size="14.79" font-family="OpenSans" font-weight="bold"><tspan y="16" x="0 9.418716 21.18309 32.12468 40.403047 44.242708 53.524293 64.69684 74.62799 82.97853 87.87193 97.29065 102.18405 110.32529 118.88513">CODE PUBLICIST </tspan></text>
+<text fill="#666666" xml:space="preserve" transform="matrix(.79314997 0 0 .79314997 332.6933 277.07463)" font-size="14.79" font-family="OpenSans"><tspan y="16" x="122.734378 135.49475 143.65764 147.67774 156.55515 160.57524 169.35883 180.01894 183.8586 190.744 195.68793 203.51882 210.54135 217.6938 221.53347 224.87512 233.60097 238.54489 246.66448 252.41675">ME(A)RN stack intern</tspan></text>
+</g>
+</g>
+</svg>

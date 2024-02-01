@@ -1,0 +1,106 @@
+.slide-3 {
+    height: 110vh
+}
+
+.tabs {
+    width: 300px;
+    height: 40px;
+    background-color: #e3dddc;
+    border-radius: 9px;
+    border: none;
+    padding: 10px;
+    margin: 5px
+}
+
+.slidetabs {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.msgtab {
+    width: 658px;
+    height: 100px;
+    background-color: #e3dddc;
+    border-radius: 9px;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+}
+
+.gradbtn {
+    background-image: linear-gradient(to bottom right, #b87f0c, #c7a10a);
+
+}
+
+.grad {
+    background-image: linear-gradient(to bottom right, #b87f0c, #c7a10a);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    margin: 0 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+    animation: bounce 1s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+
+.iconav {
+    padding: 30%;
+    text-decoration: none;
+    font-size: 30px;
+    color: #00264d;
+}
+.slide3mainhead{
+    font-size: 50px;
+}
+.slide3sidehead{
+    font-size: 25px;
+    margin-left: 40%;
+    color:#e3dddc ;
+}
+@media only screen and (max-width: 768px) {
+    .slide-3 {
+        height: 50%;
+    }
+.tabs{
+    width: 200px;
+}
+    .slidetabs {
+        display: block;
+    }
+
+    .msgtab {
+        width: 300px;
+        height: 80px;
+    }
+
+    .grad {
+        width: 50px;
+        height: 50px;
+    }
+    .iconav{
+        font-size: 20px;
+   
+    }
+    .slide3mainhead{
+        font-size: 30px;
+    }
+    .slide3sidehead{
+        font-size: 15px;
+    }
+}

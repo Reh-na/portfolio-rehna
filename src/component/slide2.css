@@ -1,0 +1,18 @@
+.paraslide{
+    font-family: 'Merriweather', serif;
+        line-height: 1.5;
+        font-size: 20px;
+        margin-top: 15px;
+
+  }
+  .headeslide{
+    font-family: 'Mulish', sans-serif;
+    font-size: 50px;
+  }
+  .slide{
+    height: 130vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+  }

@@ -6,12 +6,12 @@ import Header from '../component/Header';
 function Home() {
   return (
    <>
-   <div className='wrapper ' style={{height:"100vh"}}>
+   <div className='wrapper row' style={{height:"100vh",width:'100%'}}>
 
     <section className='one' id='homesection'>
-  <div className="headover"><Header/></div>
-            <div className='main'  style={{display:"flex"}}>
-                <div className='first' style={{height:'100vh',width:'70%',backgroundColor:'#00264d'}}>
+  <div className="headover "><Header/></div>
+            <div className='main row'  style={{display:"flex"}}>
+                <div className='first col-md-6 ' style={{height:'100vh',width:'70%',backgroundColor:'#00264d'}}>
                     <div className='homecontent' style={{display:'flex',justifyContent:'space-around',alignItems:'center',height:'100vh', color:'#ffd11a'}}>
     <div>
                             <h1 className='homehead' style={{fontSize:'50px',textShadow:'1px 1px 4px black'}}>MERN STACK <br/> DEVELOPER.</h1>
@@ -20,7 +20,7 @@ function Home() {
     </div>
     </div>                </div>
                 </div>
-                <div className="second" style={{height:'100vh',width:'30%',backgroundColor:'#ffd11a',display:'flex',alignItems:'center'}}>
+                <div className="second col-md-6" style={{height:'100vh',width:'30%',backgroundColor:'#ffd11a',display:'flex',alignItems:'center'}}>
                 <img src={portpic} style={{width:'50vh',marginLeft:'-130px'}} className="overlay-image"></img>
                 </div>
             </div>
