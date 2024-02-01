@@ -2,7 +2,8 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Libre Baskerville', serif;
+
 }
 .headover{
   position: fixed;
@@ -11,67 +12,24 @@
 }
 
 .homehead{
-  font-family: 'Grape Nuts', cursive;
+  font-family: 'Libre Baskerville', serif;
 }
 .wrapper{
-  height: 100vh;
   overflow-y: scroll;
   scroll-snap-type: y mandatory; 
 
 }
 
 
-
-
 .three{
 
 background-color: #00264d;
 }
-.skillgroup{
-  display: flex-row;
-  flex-wrap: wrap;
-}
-.skill{
-  height:50px;
-min-width: 90px;
- background-color:#b3b3b3;
- border:  1px #b3b3b3 solid;
- border-radius: 5%;
- text-align: center;
- padding: 2%;
- margin-right: 10px;
- margin-bottom: 10px;
- font-family: 'Mulish', sans-serif;
-text-shadow: 1px 1px 1px 4px black;
-}
+
 .arrow{
   background-image: linear-gradient(to bottom right, yellow, orange,#ff00cc);
 border-radius: 50%;
 width: 50px;
 height: 50px;
-}
-
-.pro{
-  background:url(./images/repeating-chevrons.svg);
-
-}
-.probtn{
-  text-align: center;
-  background-color: #c7a10a;
-  width:40%;
-  padding: 3%;
-  border-radius: 7%;
-  box-shadow: 1px 1px 1px 1px #00264d;
-}
-.probtn a{
-  text-decoration: none;
-color:#00264d
-}
-.proimg img{
-  transition: 0.3s ease-in-out;
-}
-
-.proimg:hover {
-  transform: scale(1.1);
 }
 

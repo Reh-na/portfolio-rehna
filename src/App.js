@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Projects from './pages/Projects';
 import Resume from './pages/Resume';
 import { Route } from 'react-router-dom';
+import Footer from './component/Footer';
 function App() {
   return (
     <div className="App">
@@ -15,7 +16,6 @@ function App() {
        
       </Routes>
       </BrowserRouter>
-      
     </div>
   );
 }

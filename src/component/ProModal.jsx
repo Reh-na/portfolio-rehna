@@ -3,17 +3,16 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
+import './promodal.css'
 const style = {
-  position: 'absolute',
+  position:'absolute',
   top: '50%',
   left: '50%',
   transform: 'translate(-50%, -50%)',
-  width: 500,
-  height:500,
+ 
   bgcolor: 'background.paper',
   border: '2px solid #00264d',
   boxShadow: 24,
-  p: 4,
   color:"#00264d"
 };
 
@@ -38,20 +37,29 @@ export default function ProModal({title,description,imgUrl,techs,link}) {
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
       >
-        <Box sx={style} style={{padding:'1%',borderRadius:'5%'}}>
-            <img  style={{width:'200px',height:'150px',borderRadius:'5%'}}  src={imgUrl}></img>
-          <Typography id="modal-modal-title" variant="h6" component="h2">
-          {title}
-          </Typography>
+        <Box sx={style} className='mostyle'>
 
-          <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-        {description}         </Typography>
-        <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-        {techs}         </Typography>
-<div className='probtn'>
-          <a href={link} target='_blank'>explore the project</a>
+              <div class='modmain' style={{display:'flex'}}>
+<div className='imgproject' >
+                    <img  style={{width:'100%',height:'300px',marginTop:'-1px'}}  src={imgUrl}></img>
   
-</div>        </Box>
+</div>    
+              <div style={{width:'50%',padding:"2%",backgroundColor:"#00264d", color:'white'}}>
+                  <Typography id="modal-modal-title" variant="h6" component="h3" style={{textAlign:'center'}}>
+                    {title}
+                    </Typography>
+          
+                    <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+                  {description}         </Typography>
+                  <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+                  {techs}         </Typography>
+          <div className='probtn' style={{display:'flex',justifyContent:'center'}}>
+                    <a href={link} target='_blank'>explore</a>
+            
+                   </div>
+              </div>
+</div>
+        </Box>
       </Modal>
     </div>
   );

@@ -1,5 +1,5 @@
 .slide-3 {
-    height: 110vh
+    height: fit-content
 }
 
 .tabs {
@@ -62,7 +62,7 @@
 .iconav {
     padding: 30%;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     color: #00264d;
 }
 .slide3mainhead{
@@ -93,10 +93,7 @@
         width: 50px;
         height: 50px;
     }
-    .iconav{
-        font-size: 20px;
    
-    }
     .slide3mainhead{
         font-size: 30px;
     }

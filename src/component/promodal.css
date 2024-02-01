@@ -1,0 +1,20 @@
+.mostyle  { 
+  width: fit-content;
+  height:auto;
+  margin: 0px;
+  background-color:#00264d;
+}
+
+.mostyle .modmain{
+  display: flex;
+}
+.mostyle .modmain .imgproject{
+  width: 50%;
+  height: 100%;
+
+}
+/* @media only screen and (max-width: 768px) {
+  .mostyle .modmain{
+    display: flex-column;
+  }
+} */

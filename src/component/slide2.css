@@ -1,3 +1,7 @@
+.slidecontainer{
+  margin-top: 150px;
+  height: 100vh;
+}
 .paraslide{
     font-family: 'Merriweather', serif;
         line-height: 1.5;
@@ -16,3 +20,63 @@
     justify-content: center;
     padding-bottom: 60px;
   }
+  .emptydiv{
+    width: 50%;
+  }
+  .aboutcont{
+    width: 50%;
+    display: flex-row;
+    align-items: left;
+  }
+  .skillgroup{
+    display: flex-row;
+    flex-wrap: wrap;
+  }
+  .skill{
+    height:50px;
+  min-width: 90px;
+   background-color:#b3b3b3;
+   border:  1px #b3b3b3 solid;
+   border-radius: 5%;
+   text-align: center;
+   padding: 2%;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   font-family: 'Mulish', sans-serif;
+  text-shadow: 1px 1px 1px 4px black;
+  }
+.skilldiv{
+  width: 50%;
+  float: right;
+}
+
+  @media only screen and (max-width: 1023px) {
+    .aboutcont{
+      width: 100%;
+      display: flex-row;
+      align-items: center;
+    }
+    .emptydiv{
+      width: 0%;
+
+    }
+    .headeslide{
+      font-size: 30px;
+    }
+    .paraslide{
+      font-size: 17px;
+    }
+    .slidecontainer{
+      margin-top: 20px;
+      margin-bottom: 20px;
+      height: fit-content;
+    }
+    .skilldiv{
+      width: 100%;
+    }
+    .slide{
+      height: fit-content;
+    }
+  }
+
+
