@@ -7,7 +7,7 @@ import './home.css'
 function Home() {
   return (
    <>
-   <div className='wrapper row' style={{height:"100vh",width:'100%'}}>
+   <div className='wrapper row' style={{height:"105vh",width:'100%'}}>
 
     <section className='one' id='homesection'>
   <div className="headover "><Header/></div>

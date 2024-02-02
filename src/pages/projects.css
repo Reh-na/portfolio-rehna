@@ -1,6 +1,7 @@
 .pro{
 background: url(../images//repeating-chevrons.svg);
     width: 100%;
+    height: 100%;
   }
   .probtn{
     text-align: center;
