@@ -4,8 +4,8 @@ function Slide2() {
   return (
    <div>
     
-      <div className='slide' style={{backgroundColor:'white'}}>
-        <div className='slidecontainer' style={{width:'80%'}}>
+      <div className='slide' style={{backgroundColor:'white',height:'fix-content'}}>
+        <div className='slidecontainer' style={{width:'80%',marginTop:'10%',marginBottom:'10%',marginLeft:'8%',marginRight:'8%'}}>
          <div style={{display:'flex',alignItems:'center',justifyContent:'center'}}>
             <div className='aboutcont'>
               <h1 className='headeslide'>About me</h1>

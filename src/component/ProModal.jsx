@@ -39,25 +39,29 @@ export default function ProModal({title,description,imgUrl,techs,link}) {
       >
         <Box sx={style} className='mostyle'>
 
-              <div class='modmain' >
+              <div class='modmain ' >
 <div className='imgproject' >
                     <img  style={{width:'100%%',height:'100%',marginTop:'-1px'}}  src={imgUrl}></img>
   
 </div>    
-              <div className='modaldescr' style={{padding:"2%",backgroundColor:"#00264d", color:'white'}}>
-                  <Typography id="modal-modal-title" variant="h6" component="h3" style={{textAlign:'center'}}>
-                    {title}
-                    </Typography>
-          
-                    <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                  {description}         </Typography>
-                  <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                  {techs}         </Typography>
-          <div className='probtn' style={{display:'flex',justifyContent:'center'}}>
-                    <a href={link} target='_blank'>explore</a>
+          <div  className='modaldescr' style={{
+            display:'flex',alignItems:'center',justifyContent:'center'
+          }}>
+                <div style={{padding:"2%",backgroundColor:"#00264d", color:'white'}}>
+                    <Typography id="modal-modal-title" variant="h6" component="h3" style={{textAlign:'center'}}>
+                      {title}
+                      </Typography>
             
-                   </div>
-              </div>
+                      <Typography id="modal-modal-description"  style={{textAlign:'center'}} sx={{ mt: 2 }}>
+                    {description}         </Typography>
+                    <Typography id="modal-modal-description" style={{textAlign:'center'}} sx={{ mt: 2 }}>
+                    {techs}         </Typography>
+            <div className='probtn' style={{display:'flex',justifyContent:'center',marginTop:'4%'}}>
+                      <a href={link} target='_blank'><span>explore</span></a>
+              
+                     </div>
+                </div>
+          </div>
 </div>
         </Box>
       </Modal>

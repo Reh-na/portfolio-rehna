@@ -5,8 +5,7 @@
     font-family: 'Merriweather', serif;
         line-height: 1.5;
         font-size: 20px;
-        margin-top: 15px;
-
+margin-bottom: -5%;
   }
   .headeslide{
     font-family: 'Mulish', sans-serif;
@@ -17,7 +16,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-bottom: 60px;
   }
   .emptydiv{
     width: 50%;

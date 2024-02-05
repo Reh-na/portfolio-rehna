@@ -9,7 +9,8 @@
     border-radius: 9px;
     border: none;
     padding: 10px;
-    margin: 5px
+    margin: 5px;
+    color: black;
 }
 
 .slidetabs {
@@ -24,6 +25,7 @@
     height: 100px;
     background-color: #e3dddc;
     border-radius: 9px;
+    color: black;
     border: none;
     padding: 10px;
     margin: 5px;

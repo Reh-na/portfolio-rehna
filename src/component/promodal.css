@@ -7,6 +7,8 @@
 
 .mostyle .modmain{
   display: flex;
+  background-color:#00264d;
+
 }
 .mostyle .modmain .imgproject{
   width: 50%;
@@ -16,10 +18,38 @@
 
 .modaldescr{
   width: 50%;
+  display: flex-row;
+
 }
 .modaldescr .probtn{
 margin-left: 30%;
+transition: all 0.5s;
+cursor: pointer;
 }
+.modaldescr .probtn span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.modaldescr .probtn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.modaldescr .probtn:hover span {
+  padding-right: 25px;
+}
+
+.modaldescr .probtn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
 @media only screen and (max-width: 1100px) {
   
   .mostyle .modmain{

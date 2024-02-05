@@ -1,8 +1,10 @@
-.iconav{
+
+.clrhead{
+    color:#ffd11a ;
     font-size: 50px;
 }
 @media only screen and (max-width: 768px) {
 .iconav{
-    font-size: 30px;
+    font-size: 40px;
 }
 }
