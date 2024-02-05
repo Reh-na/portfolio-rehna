@@ -6,7 +6,7 @@ import './Slide3.css'
 function Slide3() {
   return (
     <div className='slide-3' >
-      <div  style={{ display: 'flex', paddingTop: '10%' }}>
+      <div  style={{ display: 'flex', paddingTop: '5%' }}>
         <div style={{ height: "fit-content", width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
           <div className="slide3form" style={{ display: 'flex-row', justifyContent: 'center', alignItems: 'center', color: 'white' }} >
             <h1 className='slide3mainhead'>Send me a message!</h1>

@@ -5,7 +5,7 @@ function Slide2() {
    <div>
     
       <div className='slide' style={{backgroundColor:'white'}}>
-        <div className='slidecontainer' style={{width:'70%'}}>
+        <div className='slidecontainer' style={{width:'80%'}}>
          <div style={{display:'flex',alignItems:'center',justifyContent:'center'}}>
             <div className='aboutcont'>
               <h1 className='headeslide'>About me</h1>

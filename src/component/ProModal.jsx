@@ -11,7 +11,7 @@ const style = {
   transform: 'translate(-50%, -50%)',
  
   bgcolor: 'background.paper',
-  border: '2px solid #00264d',
+  border: '2px solid black',
   boxShadow: 24,
   color:"#00264d"
 };
@@ -23,11 +23,11 @@ export default function ProModal({title,description,imgUrl,techs,link}) {
 
   return (
     <div>
-     <div className='proimg'  style={{width:'320px',height:'330px',border:" 2px solid #333",
+     <div className='proimg'  style={{width:'320px',height:'400px',border:" 2px solid black",
       boxShadow: '5px 5px 10px #888888',
-      padding: '2%',textAlign:'center',backgroundColor:'#00264d',borderRadius:'1%'}}>
-        <img style={{width:'100%',height:'80%',borderRadius:'7%'}}  src={imgUrl}></img>
-          <Button style={{color:'white'}}onClick={handleOpen}>{title}</Button>
+      padding: '2%',textAlign:'center',backgroundColor:'#00264d',borderRadius:'1%'}}onClick={handleOpen}>
+        <img style={{width:'100%',height:'90%',marginTop:'-1%'}}  src={imgUrl}></img>
+          <Button style={{color:'white'}}>{title}</Button>
           
      </div>
       
@@ -41,7 +41,7 @@ export default function ProModal({title,description,imgUrl,techs,link}) {
 
               <div class='modmain' >
 <div className='imgproject' >
-                    <img  style={{width:'100%',height:'300px',marginTop:'-1px'}}  src={imgUrl}></img>
+                    <img  style={{width:'100%%',height:'100%',marginTop:'-1px'}}  src={imgUrl}></img>
   
 </div>    
               <div className='modaldescr' style={{padding:"2%",backgroundColor:"#00264d", color:'white'}}>
