@@ -1,36 +1,37 @@
-
-img{
+img {
     margin-top: 10px;
 }
 
-.pro{
+.pro {
     height: 100%;
 }
 
 @media only screen and (max-width: 1023px) {
-img{
-margin-top: 13%;
+    img {
+        margin-top: 13%;
 
-}
+    }
 }
 
 
 @media only screen and (max-width: 768px) {
-    img{
-    margin-top: 20%;
-    
+    img {
+        margin-top: 20%;
+
     }
-   
+
+}
+
+@media only screen and (max-width: 408px) {
+    img {
+        margin-top: 30%;
+
     }
-    @media only screen and (max-width: 408px){
-        img{
-            margin-top: 30%;
-            
-            }
+}
+
+@media only screen and (max-width: 284px) {
+    img {
+        margin-top: 40%;
+
     }
-    @media only screen and (max-width: 284px){
-        img{
-            margin-top: 40%;
-            
-            }
-    }
+}

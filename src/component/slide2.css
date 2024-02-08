@@ -1,111 +1,132 @@
-.slidecontainer{
+.slidecontainer {
   margin-top: 10%;
 }
-.paraslide{
-    font-family: 'Merriweather', serif;
-        line-height: 1.5;
-        font-size: 20px;
-margin-bottom: -5%;
-  }
-  .headeslide{
-    font-family: 'Mulish', sans-serif;
-    font-size: 50px;
-  }
-  .slide{
-    height: 130vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .emptydiv{
-    width: 50%;
-  }
-  .aboutcont{
-    width: 50%;
-    display: flex-row;
-    align-items: left;
-  }
-  .skillgroup{
-    display: flex-row;
-    flex-wrap: wrap;
-  }
-  .skill{
-    height:50px;
+
+.paraslide {
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  font-size: 20px;
+  margin-bottom: -5%;
+}
+
+.headeslide {
+  font-family: 'Mulish', sans-serif;
+  font-size: 50px;
+}
+
+.slide {
+  height: 130vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.emptydiv {
+  width: 50%;
+}
+
+.aboutcont {
+  width: 50%;
+  display: flex-row;
+  align-items: left;
+}
+
+.skillgroup {
+  display: flex-row;
+  flex-wrap: wrap;
+}
+
+.skill {
+  height: 50px;
   min-width: 90px;
-   background-color:#b3b3b3;
-   border:  1px #b3b3b3 solid;
-   border-radius: 5%;
-   text-align: center;
-   padding: 2%;
-   margin-right: 10px;
-   margin-bottom: 10px;
-   font-family: 'Mulish', sans-serif;
+  background-color: #b3b3b3;
+  border: 1px #b3b3b3 solid;
+  border-radius: 5%;
+  text-align: center;
+  padding: 2%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-family: 'Mulish', sans-serif;
   text-shadow: 1px 1px 1px 4px black;
-  }
-.skilldiv{
+}
+
+.skilldiv {
   width: 50%;
   float: right;
 }
 
-  @media only screen and (max-width: 1023px) {
-    .aboutcont{
-      width: 100%;
-      display: flex-row;
-      align-items: center;
-    }
-    .emptydiv{
-      width: 0%;
-
-    }
-    .headeslide{
-      font-size: 30px;
-    }
-    .paraslide{
-      font-size: 17px;
-    }
-    .slidecontainer{
-      margin-top: 20px;
-      margin-bottom: 20px;
-    }
-    .skilldiv{
-      width: 100%;
-    }
-    .slide{
-      height: fit-content;
-    }
-    
-  }
-
-
-
-@media only screen and (min-width: 1308px){
-
-  .aboutcont{
+@media only screen and (max-width: 1023px) {
+  .aboutcont {
     width: 100%;
     display: flex-row;
     align-items: center;
   }
-  .emptydiv{
+
+  .emptydiv {
     width: 0%;
 
   }
-  .headeslide{
-    font-size: 60px;
+
+  .headeslide {
+    font-size: 30px;
   }
-  .paraslide{
-    font-size: 25px;
+
+  .paraslide {
+    font-size: 17px;
   }
-  .slidecontainer{
+
+  .slidecontainer {
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .skilldiv{
+
+  .skilldiv {
     width: 100%;
   }
-  .slide{
+
+  .slide {
     height: fit-content;
   }
-  .skill{
+
+}
+
+
+
+@media only screen and (min-width: 1308px) {
+
+  .aboutcont {
+    width: 100%;
+    display: flex-row;
+    align-items: center;
+  }
+
+  .emptydiv {
+    width: 0%;
+
+  }
+
+  .headeslide {
+    font-size: 60px;
+  }
+
+  .paraslide {
+    font-size: 25px;
+  }
+
+  .slidecontainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .skilldiv {
+    width: 100%;
+  }
+
+  .slide {
+    height: fit-content;
+  }
+
+  .skill {
     height: 55px;
   }
 }

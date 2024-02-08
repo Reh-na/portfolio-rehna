@@ -1,38 +1,47 @@
-.sidenav{
-    width:240px;
-background: white;
-    position:absolute;
-    height:fit-content;
+.sidenav {
+    width: 240px;
+    background: white;
+    position: absolute;
+    height: fit-content;
     padding: 30px 30px;
-    right:-100%;
+    right: -100%;
     transition: all 0.8s;
     margin-top: -50px;
-border-radius: 5px;
-box-shadow: 1px 1px 5px 5px rgb(187, 185, 185);
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 5px rgb(187, 185, 185);
+    z-index: 1000;
+    /* Initially set a high z-index */
 }
-.sidenav.active{
+
+.sidenav.active {
     right: 0;
+    z-index: 1000;
+    /* Keep a high z-index when active */
 }
-ul{
+
+ul {
     padding: 0;
 
 }
-ul li{
+
+ul li {
     list-style-type: none;
     margin: 10px 0;
     background-color: rgb(242, 243, 244);
     border-radius: 9px;
 
 }
-ul li a{
+
+ul li a {
     color: rgb(34, 27, 27);
     text-decoration: none;
     font-size: 20px;
-display: block;
-padding: 10px 15px;
-background-color: rgb(242, 243, 244);
+    display: block;
+    padding: 10px 15px;
+    background-color: rgb(242, 243, 244);
 }
+
 ul li a:hover,
-ul li a:active{
+ul li a:active {
     background-color: rgb(209, 204, 197);
 }

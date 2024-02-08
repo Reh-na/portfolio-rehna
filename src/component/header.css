@@ -1,10 +1,31 @@
-
-.clrhead{
-    color:#ffd11a ;
+#iconav {
     font-size: 50px;
 }
-@media only screen and (max-width: 768px) {
-.iconav{
-    font-size: 40px;
+
+#navico {
+    font-size: 50px;
+
 }
+
+/* header.css */
+
+.home-page-header {
+    color: #ffd11a;
+    /* Additional styles for home page header */
+}
+
+.other-page-header {
+    color: #00264d;
+    /* Additional styles for other pages header */
+}
+
+@media only screen and (max-width: 768px) {
+    #iconav {
+        font-size: 40px;
+    }
+
+    #navico {
+        font-size: 45px;
+
+    }
 }

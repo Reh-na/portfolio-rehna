@@ -1,35 +1,41 @@
-import React from 'react'
-import './footer.css'
+import React from 'react';
+
 function Footer() {
   return (
-<>
-      <div className='mainfoot'>
-  <div style={{display:'flex-row',alignItems:'center',justifyContent:'center'}}>
-    
-    <div className='social'>
-        <div class="icon">
-        <a href="https://www.linkedin.com/in/rehna-p-g/" target="_blank"><i class="fa-brands fa-linkedin-in fa-2xl" ></i></a>
+    <>
+      <div className='mainfoot' style={{ backgroundColor: '#00264d' }}>
+        <div className='flex flex-col items-center justify-center'>
+
+          <div className='social flex justify-between items-center  ml-10 pt-5'>
+            <div className='icon mr-4'>
+              <a href='https://www.linkedin.com/in/rehna-p-g/' target='_blank'>
+                <i className='fab fa-linkedin-in text-white text-2xl'></i>
+              </a>
+            </div>
+            <div className='icon mr-4'>
+              <a href='https://github.com/Reh-na' target='_blank'>
+                <i className='fab fa-github text-white text-2xl'></i>
+              </a>
+            </div>
+            <div className='icon mr-4'>
+              <a href='https://wa.me/9074885922' target='_blank'>
+                <i className='fab fa-whatsapp text-white text-2xl'></i>
+              </a>
+            </div>
+            <div className='icon mr-4'>
+              <a href='' target='_blank'>
+                <i className='fab fa-instagram text-white text-2xl'></i>
+              </a>
+            </div>
+          </div>
+
+          <div className='block mt-25'>
+            <p className='text-white'>Copyright © 2024 portfolio of rehna. Built with React.</p>
+          </div>
         </div>
-        <div class="icon">
-         <a href="https://github.com/Reh-na" target="_blank"><i class="fa-brands fa-github fa-2xl" ></i></a>
-        </div>
-        
-        <div class="icon">
-        <a href="https://wa.me/9074885922" target="_blank"><i class="fa-brands fa-whatsapp fa-2xl" ></i></a>
-        </div> 
-        <div class="icon">
-        <a href="" target="_blank"><i class="fa-brands fa-instagram fa-2xl" ></i></a>
-        
-        </div> 
-    </div>
-    <div style={{display:'block',marginTop:'25px'}}>
-        <p style={{color:'white'}}>Copyright © 2024 portfolio of rehna. Built with React.</p>
       </div>
-        </div>
-  </div>
-    
-</>
-  )
+    </>
+  );
 }
 
-export default Footer
+export default Footer;

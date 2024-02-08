@@ -1,34 +1,36 @@
-.pro{
-background: url(../images//repeating-chevrons.svg);
-    width: 100%;
-    height: 100%;
-  }
-  .probtn{
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-image: linear-gradient(to bottom right, #b87f0c, #c7a10a);
-    width:40%;
-    padding: 3%;
-    border-radius: 7%;
-    box-shadow: 1px 1px 1px 1px #00264d;
-  }
-  .probtn a{
-    text-decoration: none;
-  color:#00264d
-  }
-  .proimg img{
-    transition: 0.3s ease-in-out;
-  }
-  
-  .proimg:hover {
-    transform: scale(1.1);
-  }
-  
-  @media only screen and (max-width: 768px) {
-  
+.pro {
+  background: url(../images//repeating-chevrons.svg);
+  width: 100%;
+  height: 100%;
 }
-#proheading{
+
+.probtn {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to bottom right, #b87f0c, #c7a10a);
+  width: 40%;
+  padding: 3%;
+  border-radius: 7%;
+  box-shadow: 1px 1px 1px 1px #00264d;
+}
+
+.probtn a {
+  text-decoration: none;
+  color: #00264d
+}
+
+.proimg img {
+  transition: 0.3s ease-in-out;
+}
+
+.proimg:hover {
+  transform: scale(1.1);
+}
+
+@media only screen and (max-width: 768px) {}
+
+#proheading {
   font-family: 'Libre Baskerville', serif;
 }

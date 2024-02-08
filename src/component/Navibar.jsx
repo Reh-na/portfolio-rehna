@@ -1,14 +1,14 @@
 import React, { useState } from 'react'
-import {GiHamburgerMenu} from 'react-icons/gi'
+import { GiHamburgerMenu } from 'react-icons/gi'
 import './navbar.css'
 import Sidebar from './Sidebar'
 function Navibar() {
-    const [ showNav,setshownav]=useState(false)
+  const [showNav, setshownav] = useState(false)
   return (
     <div><header>
-        <GiHamburgerMenu onClick={()=>setshownav(!showNav)} style={{color:'#00264d'}}/>
+      <GiHamburgerMenu onClick={() => setshownav(!showNav)} style={{ color: '#00264d' }} />
     </header>
-   {<Sidebar show={showNav}/>}
+      {<Sidebar show={showNav} />}
     </div>
   )
 }

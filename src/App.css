@@ -1,35 +1,36 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
   font-family: 'Libre Baskerville', serif;
 
 }
-.headover{
+
+.headover {
   position: fixed;
   left: 0px;
   right: 0px;
 }
 
-.homehead{
+.homehead {
   font-family: 'Libre Baskerville', serif;
 }
-.wrapper{
+
+.wrapper {
   overflow-y: scroll;
-  scroll-snap-type: y mandatory; 
+  scroll-snap-type: y mandatory;
 
 }
 
 
-.three{
+.three {
 
-background-color: #00264d;
+  background-color: #00264d;
 }
 
-.arrow{
-  background-image: linear-gradient(to bottom right, yellow, orange,#ff00cc);
-border-radius: 50%;
-width: 50px;
-height: 50px;
+.arrow {
+  background-image: linear-gradient(to bottom right, yellow, orange, #ff00cc);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
 }
-
