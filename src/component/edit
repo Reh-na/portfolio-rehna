@@ -1,0 +1,10 @@
+equarion to find current postion
+ const currentPosition = window.innerHeight / 2 + currentScroll;
+
+updated condition to check the view 
+
+if (rect.top <= currentPosition && rect.bottom >= currentPosition) {
+ setActiveSection(section.id);
+
+
+make necessory changes to make it work according to your view port
