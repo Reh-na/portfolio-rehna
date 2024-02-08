@@ -44,7 +44,7 @@ function Slide3() {
           marginBottom: '70px'
         }}>
 
-          <Link to='#section1' className='iconav' ><FaArrowUp /></Link>
+          <Link to='#homesection' className='iconav' ><FaArrowUp /></Link>
         </div>
       </div>
     </div>

@@ -9,9 +9,9 @@ function Header({ isHomePage }) {
     const observer = useRef(null);
     const lastActiveSection = useRef('homesection');
     const lastScroll = useRef(0);
-    const exitingSection = useRef(null); // Add a ref to track exiting section
 
     const getColor = (section) => {
+        
         if (isHomePage) {
             switch (section) {
                 case 'homesection':
@@ -24,11 +24,7 @@ function Header({ isHomePage }) {
                     return '#00264d';
             }
         } else {
-            // Check if section is the currently exiting section, if yes return different color
-            if (section === exitingSection.current) {
-                return '#ff0000'; // Change this to the color you want for exiting section
-            }
-            return '#00264d'; // Default color for project page icons
+            return ''; 
         }
     };
 
@@ -36,11 +32,8 @@ function Header({ isHomePage }) {
         observer.current = new IntersectionObserver(
             (entries) => {
                 entries.forEach((entry) => {
-                    if (entry.isIntersecting && entry.intersectionRatio >= 0.9) {
+                    if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
                         setActiveSection(entry.target.id);
-                    } else if (!entry.isIntersecting && entry.boundingClientRect.y < 0) {
-                        // If section is not intersecting and top of the boundingClientRect is less than 0, it's exiting
-                        exitingSection.current = entry.target.id;
                     }
                 });
             },
@@ -63,36 +56,26 @@ function Header({ isHomePage }) {
 
     const handleScroll = () => {
         const currentScroll = window.pageYOffset;
-        const direction = currentScroll > lastScroll.current ? 'down' : 'up';
-
-        const sections = document.querySelectorAll('section');
-        let foundActive = false;
-
-        for (let i = sections.length - 1; i >= 0; i--) {
-            const section = sections[i];
-            const rect = section.getBoundingClientRect();
-
-            if (direction === 'down' && rect.bottom >= window.innerHeight / 2) {
-                setActiveSection(section.id);
-                foundActive = true;
-                break;
-            } else if (direction === 'up' && rect.top <= window.innerHeight / 2) {
-                setActiveSection(section.id);
-                foundActive = true;
-                break;
+        if (currentScroll > lastScroll.current) {
+            // Scrolling down
+            lastScroll.current = currentScroll;
+            lastActiveSection.current = activeSection;
+        } else {
+            // Scrolling up
+            const sections = document.querySelectorAll('section');
+            let foundActive = false;
+            for (let i = sections.length - 1; i >= 0; i--) {
+                const section = sections[i];
+                const rect = section.getBoundingClientRect();
+                if (rect.top <= window.innerHeight / 2 && rect.bottom >= window.innerHeight / 2) {
+                    setActiveSection(section.id);
+                    foundActive = true;
+                    break;
+                }
             }
-        }
-
-        if (!foundActive) {
-            setActiveSection(lastActiveSection.current);
-        }
-
-        lastScroll.current = currentScroll;
-
-        // Change icon color when scrolled to the top
-        if (currentScroll === 0) {
-            const iconColor = getColor(activeSection);
-            document.getElementById('iconav').style.color = iconColor;
+            if (!foundActive) {
+                setActiveSection(lastActiveSection.current);
+            }
         }
     };
 
