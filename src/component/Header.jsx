@@ -62,12 +62,12 @@ function Header({ isHomePage }) {
             lastActiveSection.current = activeSection;
         } else {
             // Scrolling up
-            const sections = document.querySelectorAll('section');
+            const sections = document.querySelectorAll('section');// try to change the height and the function used to calculate the which section is currently active. 
             let foundActive = false;
             for (let i = sections.length - 1; i >= 0; i--) {
                 const section = sections[i];
                 const rect = section.getBoundingClientRect();
-                if (rect.top <= window.innerHeight / 2 && rect.bottom >= window.innerHeight / 2) {
+                if (rect.top <= window.innerHeight / 2 && rect.bottom >= window.innerHeight / 2) {//insttead of iiner height and viewpot try to find the postion using scroll position and window height
                     setActiveSection(section.id);
                     foundActive = true;
                     break;
