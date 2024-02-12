@@ -18,17 +18,17 @@ function Slide3() {
       </div>
       <div className='slidetabs' >
 
-        <div className='formdiv' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', margin: '25px' }} class=" input-group" id="full-name">
+        <div className='formdiv' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', margin: '25px' }}  id="full-name">
           <label for="full-name"> Your Name</label>
           <input id="full-name" className='tabs' placeholder="Enter your name" type="text" name="name" required="required" /></div>
 
-        <div className='formdiv' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', margin: '25px' }} class=" input-group" id="email">
+        <div className='formdiv' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', margin: '25px' }}  id="email">
           <label for="email"> Your Email</label>
           <input id="email" className='tabs' placeholder="Enter your email" type="text" name="email" required="required" /></div>
       </div>
 
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'white', marginTop: '-20px' }} >
-        <div className='formdiv' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', margin: '10px' }} class=" input-group" id="full-name">
+        <div className='formdiv' style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', margin: '10px' }} id="full-name">
           <label for="full-name"> Your message</label>
           <textarea className='msgtab' placeholder="Enter your message" type="textarea" required="required" rows='3' /></div>
 

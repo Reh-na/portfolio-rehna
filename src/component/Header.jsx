@@ -6,12 +6,12 @@ import './header.css';
 
 function Header({ isHomePage }) {
     const [activeSection, setActiveSection] = useState('homesection');
-    const observer = useRef(null);
+    const observerDown = useRef(null);
+    const observerUp = useRef(null);
     const lastActiveSection = useRef('homesection');
     const lastScroll = useRef(0);
 
     const getColor = (section) => {
-        
         if (isHomePage) {
             switch (section) {
                 case 'homesection':
@@ -29,7 +29,7 @@ function Header({ isHomePage }) {
     };
 
     useEffect(() => {
-        observer.current = new IntersectionObserver(
+        observerDown.current = new IntersectionObserver(
             (entries) => {
                 entries.forEach((entry) => {
                     if (entry.isIntersecting && entry.intersectionRatio >= 0.5) {
@@ -40,43 +40,47 @@ function Header({ isHomePage }) {
             { threshold: 0.9 }
         );
 
+        observerUp.current = new IntersectionObserver(
+            (entries) => {
+                entries.forEach((entry) => {
+                    if (entry.isIntersecting && entry.intersectionRatio >= 0) {
+                        setActiveSection(entry.target.id);
+                    }
+                });
+            },
+            { threshold: 0 }
+        );
+
         // Observe each section
         document.querySelectorAll('section').forEach((section) => {
-            observer.current.observe(section);
+            observerDown.current.observe(section);
+            observerUp.current.observe(section);
         });
 
         // Add scroll event listener
         window.addEventListener('scroll', handleScroll);
 
         return () => {
-            observer.current.disconnect();
+            observerDown.current.disconnect();
+            observerUp.current.disconnect();
             window.removeEventListener('scroll', handleScroll);
         };
     }, []);
 
     const handleScroll = () => {
         const currentScroll = window.pageYOffset;
+
         if (currentScroll > lastScroll.current) {
             // Scrolling down
-            lastScroll.current = currentScroll;
-            lastActiveSection.current = activeSection;
+            observerUp.current.disconnect();
+            observerDown.current.observe(document.documentElement);
         } else {
             // Scrolling up
-            const sections = document.querySelectorAll('section');
-            let foundActive = false;
-            for (let i = sections.length - 1; i >= 0; i--) {
-                const section = sections[i];
-                const rect = section.getBoundingClientRect();
-                if (rect.top <= window.innerHeight / 2 && rect.bottom >= window.innerHeight / 2) {
-                    setActiveSection(section.id);
-                    foundActive = true;
-                    break;
-                }
-            }
-            if (!foundActive) {
-                setActiveSection(lastActiveSection.current);
-            }
+            observerDown.current.disconnect();
+            observerUp.current.observe(document.documentElement);
         }
+
+        lastScroll.current = currentScroll;
     };
 
     useEffect(() => {
